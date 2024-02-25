@@ -1,7 +1,7 @@
 ### Hi I'm Trong 👋
 
-# 💫About Me :
-I'm coding, As I am writing these, it's4:40AM now. Yesterday I went to bed at 8:30 AM. I just hope that today I can go to bed at 4:40 AM because tomorrow I have to go back to school.
+
+### I'm coding, As I am writing these, it's 4:40AM now. Yesterday I went to bed at 8:30 AM. I just hope that today I can go to bed at 4:40 AM because tomorrow I have to go back to school.
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/trongdz.20) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trong.205) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maitrong205) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maitrong205) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/maitrong205) 
